@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",    // Use ESNext for modern module syntax
+    "target": "ES6",       // or higher, depending on your environment
+    "esModuleInterop": true,
+    "moduleResolution": "Node", // Use Node module resolution
+    "types": ["node"]
+  }
+}

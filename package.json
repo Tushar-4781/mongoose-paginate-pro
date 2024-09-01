@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-paginate-pro",
+  "version": "1.0.1",
+  "description": "Plugin for Mongoose to simplify your GET Queries",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "mongodb"
+  ],
+  "author": "Tushar Inani",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.6.0"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.5.2"
+  }
+}
