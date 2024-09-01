@@ -12,7 +12,9 @@
   "keywords": [
     "mongoose",
     "plugin",
-    "mongodb"
+    "mongodb",
+    "paginate",
+    "pagination"
   ],
   "author": "Tushar Inani",
   "license": "MIT",
